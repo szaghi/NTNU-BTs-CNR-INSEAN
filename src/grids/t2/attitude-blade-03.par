@@ -1,0 +1,11 @@
+T                         ! is to rotate?
+x                         ! rotation axis
+492.30499d0 5.7399302e-05 ! rotation center
+240.d0                    ! rotation angle
+T                         ! rotation angle is degree?
+F                         ! is to translate?
+0. 0. 0.                  ! translation vector
+F                         ! is to reflect?
+z                         ! reflection axis
+0.                        ! reflection center along the refelection axis
+'info-blade-03-*.geo'     ! geo file to apply the attitude

@@ -1,0 +1,116 @@
+# Written by ANSYS ICEM CFD/AI*Environment 11.0, user stefano, Mon Feb 08 01:35:07 PM CET 2016
+
+begin family PART_1_1
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PART_1_1
+
+begin family PART_1_2
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PART_1_2
+
+begin family PART_1_3
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PART_1_3
+
+begin family PART_1_4
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PART_1_4
+
+begin family PART_1_5
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PART_1_5
+
+begin family NACELLE
+    begin solver "Nastran"
+    end solver "Nastran"
+end family NACELLE
+
+begin family PLATE
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PLATE
+
+begin family PILLAR-UP
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PILLAR-UP
+
+begin family PILLAR-BODY
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PILLAR-BODY
+
+begin family EMISPHERE
+    begin solver "Nastran"
+    end solver "Nastran"
+end family EMISPHERE
+
+begin family REFERENCE
+    begin solver "Nastran"
+    end solver "Nastran"
+end family REFERENCE
+
+begin family PILLAR-UP-DOWN
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PILLAR-UP-DOWN
+
+begin family COCO01
+    begin solver "Nastran"
+    end solver "Nastran"
+end family COCO01
+
+begin family COCO02
+    begin solver "Nastran"
+    end solver "Nastran"
+end family COCO02
+
+begin family PRIORITY3
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PRIORITY3
+
+begin family COCO01FAMILY1
+    begin solver "Nastran"
+    end solver "Nastran"
+end family COCO01FAMILY1
+
+begin family COCO01FAMILY4
+    begin solver "Nastran"
+    end solver "Nastran"
+end family COCO01FAMILY4
+
+begin family PRIORITY2
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PRIORITY2
+
+begin family COCO01FAMILY2
+    begin solver "Nastran"
+    end solver "Nastran"
+end family COCO01FAMILY2
+
+begin family COCO01FAMILY3
+    begin solver "Nastran"
+    end solver "Nastran"
+end family COCO01FAMILY3
+
+begin family COCO01FAMILY5
+    begin solver "Nastran"
+    end solver "Nastran"
+end family COCO01FAMILY5
+
+begin family PRIORITY1
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PRIORITY1
+
+begin family PRIORITY4
+    begin solver "Nastran"
+    end solver "Nastran"
+end family PRIORITY4

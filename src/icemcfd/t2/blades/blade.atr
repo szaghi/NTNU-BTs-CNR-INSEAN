@@ -1,0 +1,286 @@
+# Written by ANSYS ICEM CFD/AI*Environment 11.0, user stefano, Thu Feb 11 06:49:19 PM CET 2016
+
+begin family NACELLE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family NACELLE
+
+begin family BLADE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family BLADE
+
+begin family KARMANN
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family KARMANN
+
+begin family BLADE-UP
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 152 1
+        end bctype color
+    end solver "Multiblock-info"
+end family BLADE-UP
+
+begin family BLADE-DOWN
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 39064 1
+        end bctype color
+    end solver "Multiblock-info"
+end family BLADE-DOWN
+
+begin family PERIODIC
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family PERIODIC
+
+begin family KARMANN-BASE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family KARMANN-BASE
+
+begin family KARMANN-CUT-PLANE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family KARMANN-CUT-PLANE
+
+begin family COCO01
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 39064 1
+        end bctype color
+    end solver "Multiblock-info"
+end family COCO01
+
+begin family COCO02
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family COCO02
+
+begin family COCO03
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family COCO03
+
+begin family COCO04
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family COCO04
+
+begin family COCO09
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family COCO09
+
+begin family COCO77ZMIRROR
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family COCO77ZMIRROR
+
+begin family COCO78YMIRROR
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family COCO78YMIRROR
+
+begin family NACELLE-90DEG
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family NACELLE-90DEG
+
+begin family PERIODIC-90DEG
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family PERIODIC-90DEG
+
+begin family NACELLE-360
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family NACELLE-360
+
+begin family BG-TUBES
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family BG-TUBES
+
+begin family BLADE-BUFFER
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family BLADE-BUFFER
+
+begin family BG-SIMMET-FAKE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family BG-SIMMET-FAKE
+
+begin family COCO01FAMILY1
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family COCO01FAMILY1
+
+begin family COCO01FAMILY2
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family COCO01FAMILY2
+
+begin family COCO01FAMILY3
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family COCO01FAMILY3
+
+begin family COCO01FAMILY4
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family COCO01FAMILY4
+
+begin family TOWER
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 6944310 1
+        end bctype color
+    end solver "Multiblock-info"
+end family TOWER
+
+begin family OGIVE
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 3365120 1
+        end bctype color
+    end solver "Multiblock-info"
+end family OGIVE
+
+begin family NACELLE-FIXED
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 6944310 1
+        end bctype color
+    end solver "Multiblock-info"
+end family NACELLE-FIXED
+
+begin family OGIVE-FAKE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family OGIVE-FAKE
+
+begin family NACELLE-TAPPO
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 6944310 1
+        end bctype color
+    end solver "Multiblock-info"
+end family NACELLE-TAPPO
+
+begin family PRIORITY1
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family PRIORITY1
+
+begin family PRIORITY2
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family PRIORITY2
+
+begin family PRIORITY3
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family PRIORITY3
+
+begin family PRIORITY4
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family PRIORITY4
+
+begin family PRIORITY5
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family PRIORITY5
+
+begin family PRIORITY6
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16532800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family PRIORITY6
+
+begin family BLADE-ORIGINAL
+    begin solver "Multiblock-info"
+        begin bctype color
+            active 1
+            color 16594800 1
+        end bctype color
+    end solver "Multiblock-info"
+end family BLADE-ORIGINAL
+
+begin family POINTS
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family POINTS
+
+begin family DEFAULT_SUBFACE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family DEFAULT_SUBFACE
+
+begin family DEFAULT_EDGE
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family DEFAULT_EDGE
+
+begin family DEFAULT_VERTEX
+    begin solver "Multiblock-info"
+    end solver "Multiblock-info"
+end family DEFAULT_VERTEX

@@ -1,0 +1,5 @@
+*.tin
+src/grids/t2/*.plt
+src/grids/t2/*.grd
+src/infos/t2/blades/
+src/infos/t2/tower/

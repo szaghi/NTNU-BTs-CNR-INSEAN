@@ -1,0 +1,1 @@
+../../infos/t2/blades/complete/info-nacelle-fixed.geo
